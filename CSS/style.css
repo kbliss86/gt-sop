@@ -15,7 +15,8 @@ body {
     background-color:#84BD00 !important;
 }
 
-.teneo-web-chat {
+#teneo-web-chat {
+    height: calc(30% - 60px);
 	--primary-color: #84BD00 !important;
 	--text-link-color: #84BD00 !important;
 }
